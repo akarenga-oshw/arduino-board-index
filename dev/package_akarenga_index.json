@@ -23,7 +23,7 @@
           },
           "boards": [
             {
-              "name": "Arduino UNO R4 Minima"
+              "name": "Akarenga UNO R4"
             }
           ],
           "toolsDependencies": [
